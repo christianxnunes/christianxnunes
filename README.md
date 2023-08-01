@@ -4,7 +4,7 @@
 
 👾 Desenvolvedor Full Stack
 
-🌱 Estou estudando no momento assutos ligados ao Back End como: NodeJS
+🌱 Estou estudando no momento assuntos ligados ao Back End como: NodeJS
 
 
 ## 🌐 Onde me encontrar:
