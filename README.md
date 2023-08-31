@@ -1,7 +1,9 @@
 
 # 💫 Sobre mim:
 🙋‍♂️ Olá meu nome é Christian é sou desenvolvedor full stack.
+
 🌱 Estou á 10 anos nesta área e a cada dia que passa aprendo novas tecnologias.
+
 🌱 Por este motivo estudo constantemente visando aprimorar minhas habilidades e conhecer novas libs, frameworks, linguagens e novas tecnologias que me chamam a atenção.
 
 ## 🌐 Onde me encontrar:
