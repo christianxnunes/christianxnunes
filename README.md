@@ -1,5 +1,5 @@
 
-# 💫 Sobre mim:
+# 🙋‍♂️ Sobre mim:
 Olá meu nome é Christian é, sou desenvolvedor full stack.
 
 Estou há 10 anos nesta área e a cada dia que passa aprendo novas tecnologias.
