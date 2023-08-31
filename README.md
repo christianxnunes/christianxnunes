@@ -1,10 +1,10 @@
 
 # 💫 Sobre mim:
-🙋‍♂️ Olá meu nome é Christian é sou desenvolvedor full stack.
+Olá meu nome é Christian é sou desenvolvedor full stack.
 
-🌱 Estou á 10 anos nesta área e a cada dia que passa aprendo novas tecnologias.
+Estou á 10 anos nesta área e a cada dia que passa aprendo novas tecnologias.
 
-🌱 Por este motivo estudo constantemente visando aprimorar minhas habilidades e conhecer novas libs, frameworks, linguagens e novas tecnologias que me chamam a atenção.
+Por este motivo estudo constantemente visando aprimorar minhas habilidades e conhecer novas libs, frameworks, linguagens e novas tecnologias que me chamam a atenção.
 
 ## 🌐 Onde me encontrar:
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/willmasca_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/willian-mascarenhas/) -->
