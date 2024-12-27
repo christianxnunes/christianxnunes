@@ -14,8 +14,8 @@ Por este motivo estudo constantemente visando aprimorar minhas habilidades e con
 # 📊 Status do GitHub:
 <div>
   <a href="https://github.com/christianxnunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianxnunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianxnunes&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianxnunes&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianxnunes&layout=compact&langs_count=16"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="christian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,12 +32,3 @@ Por este motivo estudo constantemente visando aprimorar minhas habilidades e con
   <img align="center" alt="christian-sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
   <img align="center" alt="christian-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
-
-
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
