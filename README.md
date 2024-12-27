@@ -14,8 +14,8 @@ Por este motivo estudo constantemente visando aprimorar minhas habilidades e con
 # 📊 Status do GitHub:
 <div>
   <a href="https://github.com/christianxnunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianxnunes&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianxnunes&layout=compact&langs_count=16"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianxnunes&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianxnunes&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="christian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
